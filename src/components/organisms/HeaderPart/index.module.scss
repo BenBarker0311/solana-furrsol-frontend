@@ -1,0 +1,65 @@
+
+.logo {
+    width: 100%;
+    height: auto;
+}
+
+.menu_list {
+    margin-left: 56px;
+    a {
+        margin-right: 48px;
+        font-size: 0.875rem !important;
+    }
+}
+
+.wallet {
+    padding: 8px 16px !important;
+    i {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 1599px) {
+
+}
+
+@media only screen and (max-width: 1439px) {
+
+}
+
+@media only screen and (max-width: 1365px) {
+
+}
+
+@media only screen and (max-width: 1279px) {
+
+}
+
+@media only screen and (max-width: 1023px) {
+    .logo {
+        width: 196px;
+    }
+
+    .menu_list {
+        margin-left: 32px;
+        a {
+            margin-right: 24px;
+        }
+    }
+}
+
+@media only screen and (max-width: 767px) {
+
+}
+
+@media only screen and (max-width: 639px) {
+
+}
+
+@media only screen and (max-width: 559px) {
+
+}
+
+@media only screen and (max-width: 479px) {
+
+}
